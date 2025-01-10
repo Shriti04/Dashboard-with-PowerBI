@@ -5,6 +5,8 @@ A Power BI project designed to provide actionable insights into employee dynamic
 **Project Overview**
 
 This project leverages Power BI to transform raw HR data into meaningful visualizations and reports. It enables organizations to identify key patterns and make data-driven decisions to enhance employee satisfaction, reduce attrition, and optimize workforce management.
+![image](https://github.com/user-attachments/assets/c701ae28-8f43-4ea5-ba2e-7ade4ac95445)
+
 
 **Key Features**
 
